@@ -201,6 +201,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求表达值", "00_C++语�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{626B2867-719D-4EEC-9FFD-879FC015CE00}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_插入排序", "01_算法\02_数据排序\02_插入排序\02_插入排序.vcxproj", "{90D6CC6C-8573-4D0F-8699-65E9671EDB06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -569,6 +571,14 @@ Global
 		{626B2867-719D-4EEC-9FFD-879FC015CE00}.Release|x64.Build.0 = Release|x64
 		{626B2867-719D-4EEC-9FFD-879FC015CE00}.Release|x86.ActiveCfg = Release|Win32
 		{626B2867-719D-4EEC-9FFD-879FC015CE00}.Release|x86.Build.0 = Release|Win32
+		{90D6CC6C-8573-4D0F-8699-65E9671EDB06}.Debug|x64.ActiveCfg = Debug|x64
+		{90D6CC6C-8573-4D0F-8699-65E9671EDB06}.Debug|x64.Build.0 = Debug|x64
+		{90D6CC6C-8573-4D0F-8699-65E9671EDB06}.Debug|x86.ActiveCfg = Debug|Win32
+		{90D6CC6C-8573-4D0F-8699-65E9671EDB06}.Debug|x86.Build.0 = Debug|Win32
+		{90D6CC6C-8573-4D0F-8699-65E9671EDB06}.Release|x64.ActiveCfg = Release|x64
+		{90D6CC6C-8573-4D0F-8699-65E9671EDB06}.Release|x64.Build.0 = Release|x64
+		{90D6CC6C-8573-4D0F-8699-65E9671EDB06}.Release|x86.ActiveCfg = Release|Win32
+		{90D6CC6C-8573-4D0F-8699-65E9671EDB06}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -668,6 +678,7 @@ Global
 		{AF875A2A-D9AF-474C-BD86-943597EFEAB9} = {73DF6440-A4B8-4FF9-979D-CF01F4558B87}
 		{920EAC9A-A16D-400A-848E-903D7A17CE88} = {73DF6440-A4B8-4FF9-979D-CF01F4558B87}
 		{626B2867-719D-4EEC-9FFD-879FC015CE00} = {73DF6440-A4B8-4FF9-979D-CF01F4558B87}
+		{90D6CC6C-8573-4D0F-8699-65E9671EDB06} = {F31F4F41-2A17-4CF5-9D18-81C625FC949A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
